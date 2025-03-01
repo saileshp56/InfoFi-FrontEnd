@@ -1,0 +1,40 @@
+{
+  "datasets": [
+    {
+      "id": 1,
+      "title": "MNIST Handwritten Digits",
+      "description": "70,000 images of handwritten digits (0-9) in 28x28 grayscale format",
+      "size": "11MB",
+      "format": "CSV/Images",
+      "categories": ["Computer Vision", "Classification"],
+      "price": "0.01"
+    },
+    {
+      "id": 2,
+      "title": "IMDb Movie Reviews",
+      "description": "50,000 movie reviews labeled by sentiment for natural language processing",
+      "size": "80MB",
+      "format": "Text/CSV",
+      "categories": ["NLP", "Sentiment Analysis"],
+      "price": "0.015"
+    },
+    {
+      "id": 3,
+      "title": "Boston Housing",
+      "description": "506 samples of housing prices in Boston suburbs with 13 features",
+      "size": "1MB",
+      "format": "CSV",
+      "categories": ["Regression", "Real Estate"],
+      "price": "0.005"
+    },
+    {
+      "id": 4,
+      "title": "Iris Flower Dataset",
+      "description": "150 samples of iris flowers with 4 features for species classification",
+      "size": "0.2MB",
+      "format": "CSV",
+      "categories": ["Classification", "Botany"],
+      "price": "0.003"
+    }
+  ]
+} 
